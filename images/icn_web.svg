@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="27.9724121%" y1="383.398438%" x2="82.8125%" y2="-151.627604%" id="linearGradient-1">
+            <stop stop-color="#38EFCF" offset="0%"></stop>
+            <stop stop-color="#3265C1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.7766734%" y1="224.179774%" x2="82.8125%" y2="-151.627604%" id="linearGradient-2">
+            <stop stop-color="#38EFCF" offset="0%"></stop>
+            <stop stop-color="#3265C1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-35.7635656%" y1="144.737796%" x2="82.8125%" y2="-151.627604%" id="linearGradient-3">
+            <stop stop-color="#38EFCF" offset="0%"></stop>
+            <stop stop-color="#3265C1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-14.9170458%" y1="214.275395%" x2="82.8125%" y2="-151.627604%" id="linearGradient-4">
+            <stop stop-color="#38EFCF" offset="0%"></stop>
+            <stop stop-color="#3265C1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.4565877%" y1="192.88704%" x2="82.8125%" y2="-151.627604%" id="linearGradient-5">
+            <stop stop-color="#38EFCF" offset="0%"></stop>
+            <stop stop-color="#3265C1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-42.0758247%" y1="141.429111%" x2="82.8125%" y2="-151.627604%" id="linearGradient-6">
+            <stop stop-color="#38EFCF" offset="0%"></stop>
+            <stop stop-color="#3265C1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large-Devices:-Desktops---12-col-Copy-6" transform="translate(-1063.000000, -1156.000000)">
+            <g id="Group-4" transform="translate(1063.000000, 1156.000000)">
+                <rect id="Rectangle-5-Copy-13" fill="#FFFFFF" x="0" y="0" width="96" height="96" rx="20"></rect>
+                <path d="M16,21 C16,17.6872 18.6872,15 22,15 L74,15 C77.3128,15 80,17.6872 80,21 L16,21 Z" id="Shape" stroke="url(#linearGradient-1)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M64,48 L77,48 C78.7225178,48 80,49.3854307 80,51 L80,79 C80,80.6145693 78.7225178,82 77,82 L64,82 C62.2774822,82 61,80.6145693 61,79 L61,51 C61.0007837,49.3854307 62.2782659,48 64,48 Z" id="Shape" stroke="url(#linearGradient-1)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Rectangle-path" stroke="url(#linearGradient-1)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="61 53 80 53 80 76 61 76"></polygon>
+                <path d="M71,79 C71,79.5537785 70.5505798,80 70,80 C69.4470212,80 69,79.5537785 69,79 C69,78.4494202 69.4470212,78 70,78 C70.5505798,78 71,78.4486206 71,79 Z" id="Shape" fill="#44A0BD"></path>
+                <path d="M48,55 L16,55 C16,58.3128 18.6872,61 22,61 L48,61 L48,55 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M48,61 L38,61 C37.9815733,68.1791692 38.6275314,74 32,74 L48,74 L48,61 Z" id="Shape" stroke="url(#linearGradient-3)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M16,21 L16,55 L48,55 L48,39 C47.9996,37.2571371 49.3035837,35.8725564 51,36 L77,36 C78.6992163,35.8725564 80,37.2571371 80,39 L80,21 L16,21 Z" id="Shape" stroke="url(#linearGradient-4)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M48,42 L48,76 L61,76 L61,53 L61,51 C61,49.3404176 61.9100522,48.3746813 64,48 L77,48 C78.6960326,48.3746813 80,49.760112 80,51 L80,42 L48,42 Z" id="Shape" stroke="url(#linearGradient-5)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M80,55.5192475 L80,39 C79.9992,37.3623868 78.6983675,36 77,36 L51,36 C49.3024326,36 48,37.3623868 48,39 L48,79 C48,80.6367768 49.3024326,82 51,82 L58.243274,82" id="Shape" stroke="url(#linearGradient-6)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

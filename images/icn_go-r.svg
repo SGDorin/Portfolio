@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="10px" viewBox="0 0 7 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large-Devices:-Desktops---12-col-Copy-6" transform="translate(-405.000000, -1444.000000)" fill="#4693BA">
+            <g id="Group-15" transform="translate(229.000000, 1422.000000)">
+                <g id="Group-10" transform="translate(18.000000, 16.000000)">
+                    <path d="M161.852089,8.24166231 L165.729469,12.4715317 C166.102662,12.8786507 166.075159,13.5112181 165.66804,13.8844105 C165.48361,14.0534711 165.242507,14.1472563 164.992315,14.1472563 L157.237554,14.1472563 C156.68527,14.1472563 156.237554,13.6995411 156.237554,13.1472563 C156.237554,12.8970647 156.33134,12.6559615 156.5004,12.4715317 L160.377781,8.24166231 C160.750973,7.83454332 161.38354,7.80704039 161.790659,8.1802328 C161.812016,8.19980977 161.832512,8.22030561 161.852089,8.24166231 Z" id="Triangle-Copy" transform="translate(161.114938, 11.032319) scale(1, -1) rotate(90.000000) translate(-161.114938, -11.032319) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
